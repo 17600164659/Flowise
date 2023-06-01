@@ -1,6 +1,6 @@
-# Flowise Docker Hub Image
+# WemoFlow Docker Hub Image
 
-Starts Flowise from [DockerHub Image](https://hub.docker.com/repository/docker/flowiseai/flowise/general)
+Starts WemoFlow from [DockerHub Image](https://hub.docker.com/repository/docker/flowiseai/flowise/general)
 
 ## Usage
 

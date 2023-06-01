@@ -1,7 +1,7 @@
 {
     "name": "flowise-components",
     "version": "1.2.11",
-    "description": "Flowiseai Components",
+    "description": "WemoFlowai Components",
     "main": "dist/src/index",
     "types": "dist/src/index.d.ts",
     "scripts": {

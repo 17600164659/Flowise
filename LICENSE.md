@@ -1,6 +1,6 @@
 The MIT License
 
-Copyright (c) 2023 FlowiseAI
+Copyright (c) 2023 WemoFlowAI
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

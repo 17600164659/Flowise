@@ -639,10 +639,10 @@ export class App {
 
                 const result = isStreamValid
                     ? await nodeInstance.run(nodeToExecuteData, incomingInput.question, {
-                          chatHistory: incomingInput.history,
-                          socketIO,
-                          socketIOClientId: incomingInput.socketIOClientId
-                      })
+                        chatHistory: incomingInput.history,
+                        socketIO,
+                        socketIOClientId: incomingInput.socketIOClientId
+                    })
                     : await nodeInstance.run(nodeToExecuteData, incomingInput.question, { chatHistory: incomingInput.history })
 
                 return res.json(result)
@@ -657,7 +657,7 @@ export class App {
             const removePromises: any[] = []
             await Promise.all(removePromises)
         } catch (e) {
-            console.error(`❌[server]: Flowise Server shut down error: ${e}`)
+            console.error(`❌[server]: WemoFlow Server shut down error: ${e}`)
         }
     }
 }
@@ -680,7 +680,7 @@ export async function start(): Promise<void> {
     await serverApp.config(io)
 
     server.listen(port, () => {
-        console.info(`⚡️[server]: Flowise Server is listening at ${port}`)
+        console.info(`⚡️[server]: WemoFlow Server is listening at ${port}`)
     })
 }
 

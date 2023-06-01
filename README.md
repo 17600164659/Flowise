@@ -1,19 +1,19 @@
 <!-- markdownlint-disable MD030 -->
 
-# Flowise - LangchainJS UI
+# WemoFlow - LangchainJS UI
 
-<a href="https://github.com/FlowiseAI/Flowise">
-<img width="100%" src="https://github.com/FlowiseAI/Flowise/blob/main/images/flowise.gif?raw=true"></a>
+<a href="https://github.com/WemoFlowAI/WemoFlow">
+<img width="100%" src="https://github.com/WemoFlowAI/WemoFlow/blob/main/images/flowise.gif?raw=true"></a>
 
 Drag & drop UI to build your customized LLM flow using [LangchainJS](https://github.com/hwchase17/langchainjs)
 
 ## ⚡Quick Start
 
-1. Install Flowise
+1. Install WemoFlow
     ```bash
     npm install -g flowise
     ```
-2. Start Flowise
+2. Start WemoFlow
 
     ```bash
     npx flowise start
@@ -56,7 +56,7 @@ Drag & drop UI to build your customized LLM flow using [LangchainJS](https://git
 
 ## 👨‍💻 Developers
 
-Flowise has 3 different modules in a single mono repository.
+WemoFlow has 3 different modules in a single mono repository.
 
 -   `server`: Node backend to serve API logics
 -   `ui`: React frontend
@@ -74,13 +74,13 @@ Flowise has 3 different modules in a single mono repository.
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/FlowiseAI/Flowise.git
+    git clone https://github.com/WemoFlowAI/WemoFlow.git
     ```
 
 2. Go into repository folder
 
     ```bash
-    cd Flowise
+    cd WemoFlow
     ```
 
 3. Install all dependencies of all modules:
@@ -122,7 +122,7 @@ FLOWISE_PASSWORD=1234
 
 ## 📖 Documentation
 
-[Flowise Docs](https://docs.flowiseai.com/)
+[WemoFlow Docs](https://docs.flowiseai.com/)
 
 ## 🌐 Self Host
 
@@ -144,12 +144,12 @@ Coming soon
 
 ## 🙋 Support
 
-Feel free to ask any questions, raise problems, and request new features in [discussion](https://github.com/FlowiseAI/Flowise/discussions)
+Feel free to ask any questions, raise problems, and request new features in [discussion](https://github.com/WemoFlowAI/WemoFlow/discussions)
 
 ## 🙌 Contributing
 
 See [contributing guide](CONTRIBUTING.md). Reach out to us at [Discord](https://discord.gg/jbaHfsRVBW) if you have any questions or issues.
-[![Star History Chart](https://api.star-history.com/svg?repos=FlowiseAI/Flowise&type=Timeline)](https://star-history.com/#FlowiseAI/Flowise&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=WemoFlowAI/WemoFlow&type=Timeline)](https://star-history.com/#WemoFlowAI/WemoFlow&Date)
 
 ## 📄 License
 

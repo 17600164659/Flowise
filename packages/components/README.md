@@ -1,10 +1,10 @@
 <!-- markdownlint-disable MD030 -->
 
-# Flowise Components
+# WemoFlow Components
 
-Apps integration for Flowise. Contain Nodes and Credentials.
+Apps integration for WemoFlow. Contain Nodes and Credentials.
 
-![Flowise](https://github.com/FlowiseAI/Flowise/blob/main/images/flowise.gif?raw=true)
+![WemoFlow](https://github.com/WemoFlowAI/WemoFlow/blob/main/images/flowise.gif?raw=true)
 
 Install:
 
@@ -22,4 +22,4 @@ DEBUG=true
 
 ## License
 
-Source code in this repository is made available under the [MIT License](https://github.com/FlowiseAI/Flowise/blob/master/LICENSE.md).
+Source code in this repository is made available under the [MIT License](https://github.com/WemoFlowAI/WemoFlow/blob/master/LICENSE.md).

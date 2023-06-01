@@ -1,28 +1,28 @@
 <!-- markdownlint-disable MD030 -->
 
-# Contributing to Flowise
+# Contributing to WemoFlow
 
 We appreciate any form of contributions.
 
 ## ⭐ Star
 
-Star and share the [Github Repo](https://github.com/FlowiseAI/Flowise).
+Star and share the [Github Repo](https://github.com/WemoFlowAI/WemoFlow).
 
 ## 🙋 Q&A
 
-Search up for any questions in [Q&A section](https://github.com/FlowiseAI/Flowise/discussions/categories/q-a), if you can't find one, don't hesitate to create one. It might helps others that have similar question.
+Search up for any questions in [Q&A section](https://github.com/WemoFlowAI/WemoFlow/discussions/categories/q-a), if you can't find one, don't hesitate to create one. It might helps others that have similar question.
 
 ## 🙌 Share Chatflow
 
-Yes! Sharing how you use Flowise is a way of contribution. Export your chatflow as JSON, attach a screenshot and share it in [Show and Tell section](https://github.com/FlowiseAI/Flowise/discussions/categories/show-and-tell).
+Yes! Sharing how you use WemoFlow is a way of contribution. Export your chatflow as JSON, attach a screenshot and share it in [Show and Tell section](https://github.com/WemoFlowAI/WemoFlow/discussions/categories/show-and-tell).
 
 ## 💡 Ideas
 
-Ideas are welcome such as new feature, apps integration, and blockchain networks. Submit in [Ideas section](https://github.com/FlowiseAI/Flowise/discussions/categories/ideas).
+Ideas are welcome such as new feature, apps integration, and blockchain networks. Submit in [Ideas section](https://github.com/WemoFlowAI/WemoFlow/discussions/categories/ideas).
 
 ## 🐞 Report Bugs
 
-Found an issue? [Report it](https://github.com/FlowiseAI/Flowise/issues/new/choose).
+Found an issue? [Report it](https://github.com/WemoFlowAI/WemoFlow/issues/new/choose).
 
 ## 👨‍💻 Contribute to Code
 
@@ -34,7 +34,7 @@ Not sure what to contribute? Some ideas:
 
 ### Developers
 
-Flowise has 3 different modules in a single mono repository.
+WemoFlow has 3 different modules in a single mono repository.
 
 -   `server`: Node backend to serve API logics
 -   `ui`: React frontend
@@ -49,7 +49,7 @@ Flowise has 3 different modules in a single mono repository.
 
 #### Step by step
 
-1. Fork the official [Flowise Github Repository](https://github.com/FlowiseAI/Flowise).
+1. Fork the official [WemoFlow Github Repository](https://github.com/WemoFlowAI/WemoFlow).
 
 2. Clone your forked repository.
 
@@ -63,7 +63,7 @@ Flowise has 3 different modules in a single mono repository.
 5. Go into repository folder
 
     ```bash
-    cd Flowise
+    cd WemoFlow
     ```
 
 6. Install all dependencies of all modules:
@@ -108,7 +108,7 @@ Flowise has 3 different modules in a single mono repository.
 
     to make sure everything works fine in production.
 
-11. Commit code and submit Pull Request from forked branch pointing to [Flowise master](https://github.com/FlowiseAI/Flowise/tree/master).
+11. Commit code and submit Pull Request from forked branch pointing to [WemoFlow master](https://github.com/WemoFlowAI/WemoFlow/tree/master).
 
 ## 📖 Contribute to Docs
 
@@ -116,11 +116,11 @@ In-Progress
 
 ## 🏷️ Pull Request process
 
-A member of the FlowiseAI team will automatically be notified/assigned when you open a pull request. You can also reach out to us on [Discord](https://discord.gg/jbaHfsRVBW).
+A member of the WemoFlowAI team will automatically be notified/assigned when you open a pull request. You can also reach out to us on [Discord](https://discord.gg/jbaHfsRVBW).
 
 ## 📃 Contributor License Agreement
 
-Before we can merge your contribution you have to sign our [Contributor License Agreement (CLA)](https://cla-assistant.io/FlowiseAI/Flowise). The CLA contains the terms and conditions under which the contribution is submitted. You need to do this only once for your first pull request. Keep in mind that without a signed CLA we cannot merge your contribution.
+Before we can merge your contribution you have to sign our [Contributor License Agreement (CLA)](https://cla-assistant.io/WemoFlowAI/WemoFlow). The CLA contains the terms and conditions under which the contribution is submitted. You need to do this only once for your first pull request. Keep in mind that without a signed CLA we cannot merge your contribution.
 
 ## 📜 Code of Conduct
 
