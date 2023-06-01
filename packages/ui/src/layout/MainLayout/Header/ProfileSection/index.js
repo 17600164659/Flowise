@@ -108,7 +108,7 @@ const ProfileSection = ({ username, handleLogout }) => {
                     setLoading(false)
                 }
             } else {
-                alert('Incorrect Flowise Database Format')
+                alert('Incorrect WemoFlow Database Format')
             }
         }
         reader.readAsText(file)

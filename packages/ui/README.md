@@ -1,10 +1,10 @@
 <!-- markdownlint-disable MD030 -->
 
-# Flowise UI
+# WemoFlow UI
 
-React frontend ui for Flowise.
+React frontend ui for WemoFlow.
 
-![Flowise](https://github.com/FlowiseAI/Flowise/blob/main/images/flowise.gif?raw=true)
+![WemoFlow](https://github.com/WemoFlowAI/WemoFlow/blob/main/images/flowise.gif?raw=true)
 
 Install:
 
@@ -14,4 +14,4 @@ npm i flowise-ui
 
 ## License
 
-Source code in this repository is made available under the [MIT License](https://github.com/FlowiseAI/Flowise/blob/master/LICENSE.md).
+Source code in this repository is made available under the [MIT License](https://github.com/WemoFlowAI/WemoFlow/blob/master/LICENSE.md).
