@@ -17,7 +17,6 @@ export class NodesPool {
         const nodeFiles = await this.getFiles(nodesPath)
         return Promise.all(
             nodeFiles.map(async (file) => {
-                console.log(file)
                 if (file.endsWith('.js')) {
                     const nodeModule = await require(file)
                     try {
